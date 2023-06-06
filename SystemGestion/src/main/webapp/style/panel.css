@@ -1,0 +1,15 @@
+
+th {
+	text-transform: uppercase;
+	}
+th,td {
+	text-align: center;
+	vertical-align: middle;
+	cursor: default;
+	}
+td img {
+	cursor: pointer;
+	}
+td span , .cne  {
+	cursor: not-allowed;
+	}
